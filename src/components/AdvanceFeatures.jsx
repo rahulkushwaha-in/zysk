@@ -1,4 +1,4 @@
-import AdvanceFeature from "../assets/AdvanceFeature.png"
+import AdvanceFeature from "../assets/advanceFeature.png"
 const AdvancedFeatures = () => {
   return (
     <section className="py-10">
