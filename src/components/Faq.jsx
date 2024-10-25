@@ -64,7 +64,7 @@ const FAQ = () => {
                   <h3 className="text-lg font-medium text-gray-900">
                     {faq.question}
                   </h3>
-                  <span className="text-gray-400 font-bold text-lg flex justify-center pb-1 items-center w-5 h-5 border border-gray-400 rounded-full cursor-pointer select-none">
+                  <span className="text-gray-400 font-bold text-lg flex justify-center pb-1 items-center w-5 h-5 cursor-pointer select-none">
                     {openIndex === index ? "−" : "+"}
                   </span>
                 </div>
